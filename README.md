@@ -1,4 +1,4 @@
-# Heart-Disease-Model
+# Heart Disease Model
 <h2>Description</h2>
 <p>This model predicts whether or not a person has heart disease based off of certain conditions the patient has. The predictions were made from a model that uses RandomForestClassifier.
 </p>
