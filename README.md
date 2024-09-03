@@ -7,7 +7,7 @@
 <p>To run this project locally, you'll need:<p>
 <ul>
   <li>Python 3.10</li>
-  <li>Jupiter Notebook</li>
+  <li>Jupyter Notebook</li>
   <li>Libraries</li>
   <ul>
     <li>pandas</li>
@@ -21,7 +21,11 @@
 
 <div>
 <h2>How to use</h2>
-<p>To see to result of the model, download the datafile, open in Google Colab, and run the notebook.</p>
+<ol>
+  <li><b>Clone the repository</b></li>
+  <li><b>Install Dependacies: </b>Make sure all the required libraries are installed</li>
+  <li><b>Run the Jupyter Notebook</b> Open the Heart_Disease_Prediction.ipynb in Jupyter Notebook or Google Colab to explore the analysis and model training process.</li>
+</ol>
 </div>
 
 <h2>Credits</h2>
