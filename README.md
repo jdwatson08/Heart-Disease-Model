@@ -24,7 +24,7 @@
 <ol>
   <li><b>Clone the repository</b></li>
   <li><b>Install Dependacies: </b>Make sure all the required libraries are installed</li>
-  <li><b>Run the Jupyter Notebook</b> Open the Heart_Disease_Prediction.ipynb in Jupyter Notebook or Google Colab to explore the analysis and model training process.</li>
+  <li><b>Run the Jupyter Notebook: </b> Open the Heart_Disease_Prediction.ipynb in Jupyter Notebook or Google Colab to explore the analysis and model training process.</li>
 </ol>
 </div>
 
