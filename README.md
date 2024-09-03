@@ -1,12 +1,22 @@
 # Heart Disease Model
 <h2>Description</h2>
-<p>This model predicts whether or not a person has heart disease based off of certain conditions the patient has. The predictions were made from a model that uses RandomForestClassifier.
-</p>
+<p>This project aims to predict the presence of heart disease in a patient based on various medical features. My goal is to create a model that can assist in the early detection of heart disease, potentially aiding healthcare professionals in decision making. This model was trained on the Kaggle Heart Disease dataset. 
 
 <div>
-<h2>Framework</h3>
-<h3>Built Using</h3>
-<p>Google Colab</p>
+<h2>Requirements</h3>
+<p>To run this project locally, you'll need:<p>
+<ul>
+  <li>Python 3.10</li>
+  <li>Jupiter Notebook</li>
+  <li>Libraries</li>
+  <ul>
+    <li>pandas</li>
+    <li>numpy</li>
+    <li>scikit-learn</li>
+    <li>matplotlib</li>
+    <li>seaborn</li>
+  </ul>
+</ul>
 </div>
 
 <div>
